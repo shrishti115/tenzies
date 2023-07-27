@@ -10,7 +10,7 @@ once your package is downloaded import it using
 
 import {nanoid} from "nanoid"
 
-confetti package is included as a component so it also needs to be rendered.
+confetti package is included as a component, so it must also be rendered.
 
 to import confetti
 
